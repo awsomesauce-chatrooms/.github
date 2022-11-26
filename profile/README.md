@@ -2,7 +2,7 @@
 A chatroom client-server application written entierly in
 TCP sockets, curses and ruby!
 
-## [Protocol Documentation](protocol.md)
+## [Protocol Documentation](profile/protocol.md)
 
 
 # Requirements
