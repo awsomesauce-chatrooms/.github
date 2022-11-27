@@ -4,6 +4,7 @@ TCP sockets, curses and ruby!
 
 ## [Protocol Documentation](profile/protocol.md)
 
+## Server available at: server.141.lv:8056
 
 # Requirements
 1. Ruby 3.1.x. I reccomend using `rbenv` as your version manager (due to IO::Buffer)
